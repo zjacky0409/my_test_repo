@@ -6,3 +6,5 @@ This is a test branch. haha ok no problem, it is fun.
 
 
 Add a new line here
+
+test git merge usage.
